@@ -1,6 +1,6 @@
-# Pentesting-Report-Template
+# Technical Report
 
-This is a template made on LaTex to report the processes made to pentest a software or infrastructure (or even hardware). 
+This is our technical report with all our processes and the main ideas.
 
 ## How to run?
 
